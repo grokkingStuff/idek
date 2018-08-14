@@ -168,8 +168,8 @@ for i in list_of_data_sources:
         Y_Data = pandas_frame['drive'].values
         Y_Data = Y_Data.reshape(1,Y_Data.shape[0],1)
 
-    print(X_data)
-    print(Y_Data)
+    #print(X_data)
+    #print(Y_Data)
 
    
         #count+=1
@@ -178,7 +178,7 @@ for i in list_of_data_sources:
 #+END_SRC
 
 #+RESULTS:
-: # Out[99]:
+: # Out[11]:
 
 
 
