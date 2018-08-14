@@ -174,11 +174,11 @@ for i in list_of_data_sources:
    
         #count+=1
 
-        #net.train(X_data,Y_Data,epochs=6)
+    net.train(X_data,Y_Data,epochs=6)
 #+END_SRC
 
 #+RESULTS:
-: # Out[11]:
+: # Out[12]:
 
 
 
